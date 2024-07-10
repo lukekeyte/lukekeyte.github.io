@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: Sulfur budget in planet-forming environments
+description: Sulfur budget in planet-forming environments
 img: assets/img/3.jpg
 importance: 2
 category: work
